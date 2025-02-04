@@ -19,7 +19,7 @@ O **Patas Alertas** é um aplicativo mobile desenvolvido para auxiliar no monito
 - **🗺️ Marcação de localização no mapa**: cada caso registrado é marcado no mapa para ajudar na identificação da distribuição dos casos.
 
 ## 📥 Como Executar
-O **Patas Alertas** estará disponível para download na aba [📂 Releases](https://github.com/seu-repositorio/releases) do GitHub. Basta baixar o APK e instalá-lo no seu dispositivo Android.
+O **Patas Alertas** estará disponível para download na aba [📂 Releases](https://github.com/Wladison-Maciel/PatasAlertaApp/releases) do GitHub. Basta baixar o APK e instalá-lo no seu dispositivo Android.
 
 ## 💡 Como Contribuir
 Atualmente, a melhor forma de contribuir para o projeto é ajudando a **📢 divulgar o aplicativo** para que mais veterinários e profissionais da área possam utilizá-lo. Compartilhe o projeto nas redes sociais e entre colegas que possam se beneficiar do app.
